@@ -1,4 +1,5 @@
-{"rank": "37","name": "Mmathethe","District": "Southern District","Census-District": "Borolong","Population-2001": "6692","Male-Pop": "3351	3341"},
+[
+  {"rank": "37","name": "Mmathethe","District": "Southern District","Census-District": "Borolong","Population-2001": "6692","Male-Pop": "3351	3341"},
 {"rank": "16","name": "Bobonong","District": "Central District","Census-District": "Central Bobonong","Population-2001": "21020","Male-Pop": "9877	11143"},
 {"rank": "20","name": "Mmadinare","District": "Central District","Census-District": "Central Bobonong","Population-2001": "15712","Male-Pop": "7600	8112"},
 {"rank": "47","name": "Sefophe","District": "Central District","Census-District": "Central Bobonong","Population-2001": "5470","Male-Pop": "2662	2808"},
@@ -78,5 +79,6 @@
 {"rank": "27","name": "Orapa","District": "Central District","Census-District": "Orapa","Population-2001": "9151","Male-Pop": "4837","Female-Pop": "4314"},
 {"rank": "5","name": "Selibe Phikwe","District": "	Central District","Census-District": "Selibe Phikwe","Population-2001": "49849","Male-Pop": "24334","Female-Pop": "25515"},
 {"rank": "46","name": "Otse","District": "South-East District","Census-District": "South East","Population-2001": "5599","Male-Pop": "2838","Female-Pop": "2761"},
-{"rank": "13","name": "Ramotswa	South-East District	South East	25,738	12,027	13,711"},
-{"rank": "15","name": "Tlokweng	South-East District	South East	22,038	10,568	11,470"}
+{"rank": "13","name": "Ramotswa","District": "South-East District	","Census-District": "South East","Population-2001": "25738","Male-Pop": "12027","Female-Pop": "13711"},
+{"rank": "15","name": "Tlokweng","District": "South-East District	","Census-District": "South East","Population-2001": "22038","Male-Pop": "10568","Female-Pop": "11470"}
+]
