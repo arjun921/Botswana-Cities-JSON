@@ -1,675 +1,82 @@
-[{
-    "rank": "16",
-    "name": "Bobonong",
-    "District": "Central District",
-    "Census-District": "Central Bobonong",
-    "Population-2001": "21,020",
-    "Male-Pop": "9,877",
-    "Female-Pop": "11,143"
-  }, {
-    "rank": "54",
-    "name": "Bokaa",
-    "District": "Kgatleng District",
-    "Census-District": "Kgatleng",
-    "Population-2001": "4,545",
-    "Male-Pop": "2,185",
-    "Female-Pop": "2,360"
-  }, {
-    "rank": "78",
-    "name": "Borolong",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "3,081",
-    "Male-Pop": "1,423",
-    "Female-Pop": "1,658"
-  }, {
-    "rank": "80",
-    "name": "Chadibe",
-    "District": "Central District",
-    "Census-District": "Central Mahalapye",
-    "Population-2001": "3,060",
-    "Male-Pop": "1,439",
-    "Female-Pop": "1,621"
-  }, {
-    "rank": "43",
-    "name": "Dukwi",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "5,877",
-    "Male-Pop": "3,220",
-    "Female-Pop": "2,657"
-  }, {
-    "rank": "45",
-    "name": "Etsha",
-    "District": "North-West District",
-    "Census-District": "Ngamiland West",
-    "Population-2001": "5,613",
-    "Male-Pop": "2,466",
-    "Female-Pop": "3,147"
-  }, {
-    "rank": "2",
-    "name": "Francistown",
-    "District": "North-East District",
-    "Census-District": "Francistown",
-    "Population-2001": "83,023",
-    "Male-Pop": "40,134",
-    "Female-Pop": "42,889"
-  }, {
-    "rank": "23",
-    "name": "Gabane",
-    "District": "Kweneng Distric",
-    "Census-District": "Kweneng East",
-    "Population-2001": "12,530",
-    "Male-Pop": "5,882",
-    "Female-Pop": "6,648"
-  }, {
-    "rank": "1",
-    "name": "Gaborone",
-    "District": "South-East District",
-    "Census-District": "Gaborone",
-    "Population-2001": "186,007",
-    "Male-Pop": "91,823",
-    "Female-Pop": "94,184"
-  }, {
-    "rank": "25",
-    "name": "Ghanzi",
-    "District": "Ghanzi District",
-    "Census-District": "Ghanzi",
-    "Population-2001": "10,795",
-    "Male-Pop": "5,375",
-    "Female-Pop": "5,420"
-  },
-
-
-  {
-    "rank": "34",
-    "name": "Gumare",
-    "District": "North-West District",
-    "Census-District": "Ngamiland West",
-    "Population-2001": "7,478",
-    "Male-Pop": "3,482",
-    "Female-Pop": "3,996"
-  }, {
-    "rank": "38",
-    "name": "Gweta",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "6,653",
-    "Male-Pop": "3,244",
-    "Female-Pop": "3,409"
-  }, {
-    "rank": "57",
-    "name": "Hukuntsi",
-    "District": "Kgalagadi District",
-    "Census-District": "Kgalagadi North",
-    "Population-2001": "4,131",
-    "Male-Pop": "2,052",
-    "Female-Pop": "2,079"
-  }, {
-    "rank": "21",
-    "name": "Jwaneng",
-    "District": "Southern District",
-    "Census-District": "Jwaneng",
-    "Population-2001": "15,179",
-    "Male-Pop": "7,613",
-    "Female-Pop": "7,566"
-  }, {
-    "rank": "58",
-    "name": "Kang",
-    "District": "Kgalagadi District",
-    "Census-District": "Kgalagadi North",
-    "Population-2001": "4,124",
-    "Male-Pop": "2,133",
-    "Female-Pop": "1,991"
-  }, {
-    "rank": "7",
-    "name": "Kanye",
-    "District": "Southern District",
-    "Census-District": "Ngwaketse",
-    "Population-2001": "48,143",
-    "Male-Pop": "22,451",
-    "Female-Pop": "25,692"
-  }, {
-    "rank": "30",
-    "name": "Kasane",
-    "District": "North-West District",
-    "Census-District": "Ngamiland West	",
-    "Population-2001": "7,933",
-    "Male-Pop": "3,968",
-    "Female-Pop": "3,965"
-  }, {
-    "rank": "73",
-    "name": "Khudumelapye",
-    "District": "Kweneng Distric",
-    "Census-District": "Kweneng West",
-    "Population-2001": "3,248",
-    "Male-Pop": "1,645",
-    "Female-Pop": "1,603"
-  }, {
-    "rank": "28",
-    "name": "Kopong",
-    "District": "Kweneng District",
-    "Census-District": "Kweneng East",
-    "Population-2001": "8,992",
-    "Male-Pop": "4,416",
-    "Female-Pop": "4,576"
-  }, {
-    "rank": "65",
-    "name": "Kumakwane",
-    "District": "Kweneng District",
-    "Census-District": "Kweneng East",
-    "Population-2001": "3,544",
-    "Male-Pop": "1,668",
-    "Female-Pop": "1,876"
-  },
-
-  {
-    "rank": "71",
-    "name": "Lecheng",
-    "District": "Central District",
-    "Census-District": "Central Serowe/Palapye",
-    "Population-2001": "3,251",
-    "Male-Pop": "1,536",
-    "Female-Pop": "1,715"
-  }, {
-    "rank": "32",
-    "name": "Lentsweletau",
-    "District": "Kweneng District",
-    "Census-District": "Kweneng East",
-    "Population-2001": "7,609",
-    "Male-Pop": "3,815",
-    "Female-Pop": "3,794"
-  }, {
-    "rank": "36",
-    "name": "Lerala",
-    "District": "Central District",
-    "Census-District": "Central Serowe/Palapye",
-    "Population-2001": "6,740",
-    "Male-Pop": "3,107",
-    "Female-Pop": "3,633"
-  }, {
-    "rank": "18",
-    "name": "Letlhakane",
-    "District": "Central District",
-    "Census-District": "Central Boteti",
-    "Population-2001": "19,539",
-    "Male-Pop": "9,848",
-    "Female-Pop": "9,691"
-  }, {
-    "rank": "26",
-    "name": "Letlhakeng",
-    "District": "Kweneng District",
-    "Census-District": "Kweneng West",
-    "Population-2001": "9,676",
-    "Male-Pop": "4,685",
-    "Female-Pop": "4,991"
-  }, {
-    "rank": "11",
-    "name": "Lobatse",
-    "District": "South-East District",
-    "Census-District": "Lobatse",
-    "Population-2001": "29,689",
-    "Male-Pop": "14,202",
-    "Female-Pop": "15,487"
-  }, {
-    "rank": "52",
-    "name": "Lotlhakane",
-    "District": "Southern District",
-    "Census-District": "Ngwaketse",
-    "Population-2001": "4,741",
-    "Male-Pop": "2,371",
-    "Female-Pop": "2,370"
-  }, {
-    "rank": "8",
-    "name": "Mahalapye",
-    "District": "Central District",
-    "Census-District": "Central Mahalapye",
-    "Population-2001": "43,538",
-    "Male-Pop": "21,120",
-    "Female-Pop": "22,418"
-  }, {
-    "rank": "41",
-    "name": "Maitengwe",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "6,141",
-    "Male-Pop": "2,728",
-    "Female-Pop": "3,413"
-  }, {
-    "rank": "77",
-    "name": "Malolwane",
-    "District": "Kgatleng District",
-    "Census-District": "Kgatleng",
-    "Population-2001": "3,084",
-    "Male-Pop": "1,559",
-    "Female-Pop": "1,525"
-  },
-
-  {
-    "rank": "69",
-    "name": "Mandunyane",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "3,265",
-    "Male-Pop": "1,550",
-    "Female-Pop": "1,715"
-  }, {
-    "rank": "66",
-    "name": "Manyana",
-    "District": "Southern District",
-    "Census-District": "Ngwaketse",
-    "Population-2001": "3,488",
-    "Male-Pop": "1,645",
-    "Female-Pop": "1,843"
-  }, {
-    "rank": "75",
-    "name": "Marobela",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "3,114",
-    "Male-Pop": "1,441",
-    "Female-Pop": "1,673"
-  }, {
-    "rank": "76",
-    "name": "Masunga",
-    "District": "North-East District",
-    "Census-District": "North East",
-    "Population-2001": "3,110",
-    "Male-Pop": "1,394",
-    "Female-Pop": "1,716"
-  }, {
-    "rank": "39",
-    "name": "Mathangwane",
-    "District": "Central District",
-    "Census-District": "Central Tutume",
-    "Population-2001": "6,468",
-    "Male-Pop": "3,011",
-    "Female-Pop": "3,457"
-  }, {
-    "rank": "6",
-    "name": "Maun",
-    "District": "North-West District",
-    "Census-District": "Ngamiland East",
-    "Population-2001": "49,822",
-    "Male-Pop": "23,714",
-    "Female-Pop": "26,108"
-  }, {
-    "rank": "59",
-    "name": "Maunatlala",
-    "District": "Central District",
-    "Census-District": "Central Serowe/Palapye",
-    "Population-2001": "3,876",
-    "Male-Pop": "1,806",
-    "Female-Pop": "2,070"
-  }, {
-    "rank": "53",
-    "name": "Metsimotlhaba",
-    "District": "Kweneng District",
-    "Census-District": "Kweneng East",
-    "Population-2001": "4,692",
-    "Male-Pop": "2,162",
-    "Female-Pop": "2,530"
-  }, {
-    "rank": "20",
-    "name": "Mmadinare",
-    "District": "Central District",
-    "Census-District": "Central Bobonong",
-    "Population-2001": "15,712",
-    "Male-Pop": "7,600",
-    "Female-Pop": "8,112"
-  }, {
-    "rank": "40",
-    "name": "Mmankgodi",
-    "District": "Kweneng District",
-    "Census-District": "Kweneng East",
-    "Population-2001": "6,277",
-    "Male-Pop": "2,868",
-    "Female-Pop": "3,409"
-  },
-
-  {
-    "rank": "37",
-    "name": "Mmathethe",
-    "District": "Southern District",
-    "Census-District": "Borolong",
-    "Population-2001": "6,692",
-    "Male-Pop": "3,351",
-    "Female-Pop": "3,341"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  },
-
-  {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  },
-
-  {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  },
-
-  {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  },
-
-  {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }, {
-    "rank": "123",
-    "name": "Corporative",
-    "District": "index_corporate",
-    "Census-District": "asd",
-    "Population-2001": "1231",
-    "Male-Pop": "12312",
-    "Female-Pop": "3123"
-  }
-]
+{"rank": "37","name": "Mmathethe","District": "Southern District","Census-District": "Borolong"	6,692	3,351	3,341
+{"rank": "16","name": "Bobonong","District": "Central District","Census-District": "Central Bobonong"	21,020	9,877	11,143
+{"rank": "20","name": "Mmadinare","District": "Central District","Census-District": "Central Bobonong"	15,712	7,600	8,112
+{"rank": "47","name": "Sefophe","District": "Central District","Census-District": "Central Bobonong"	5,470	2,662	2,808
+{"rank": "60","name": "Tobane","District": "Central District","Census-District": "Central Bobonong"	3,718	1,909	1,809
+{"rank": "56","name": "Tsetsebjwe","District": "Central District","Census-District": "Central Bobonong"	4,396	2,031	2,365
+{"rank": "18","name": "Letlhakane","District": "Central District","Census-District": "Central Boteti"	19,539	9,848	9,691
+{"rank": "44","name": "Mopipi","District": "Central District","Census-District": "Central Boteti"	5,625	2,725	2,900
+{"rank": "42","name": "Rakops","District": "Central District","Census-District": "Central Boteti"	6,124	2,814	3,310
+{"rank": "80","name": "Chadibe","District": "Central District","Census-District": "Central Mahalapye"	3,060	1,439	1,621
+{"rank": "8","name": "Mahalapye","District": "Central District","Census-District": "Central Mahalapye	43,538	21,120	22,418
+{"rank": "82","name": "Mookane","District": "Central District","Census-District": "Central Mahalapye	3,042	1,500	1,542
+{"rank": "62","name": "Ramokgonami","District": "Central District","Census-District": "Central Mahalapye	3,654	1,717	1,937
+{"rank": "24","name": "Shoshong","District": "Central District","Census-District": "Central Mahalapye	11,176	5,521	5,655
+{"rank": "50","name": "Tumasera/Seleka","District": "Central District","Census-District": "Central Mahalapye	5,131	2,401	2,730
+{"rank": "71","name": "Lecheng","District": "Central District","Census-District": "Central Serowe/Palapye	3,251	1,536	1,715
+{"rank": "36","name": "Lerala","District": "Central District","Census-District": "Central Serowe/Palapye	6,740	3,107	3,633
+{"rank": "59","name": "Maunatlala","District": "Central District","Census-District": "Central Serowe/Palapye	3,876	1,806	2,070
+{"rank": "51","name": "Moiyabana","District": "Central District","Census-District": "Central Serowe/Palapye	4,947	2,258	2,689
+{"rank": "12","name": "Palapye","District": "Central District","Census-District": "Central Serowe/Palapye	29,565	13,995	15,570
+{"rank": "4","name": "Serowe","District": "Central District","Census-District": "Central Serowe/Palapye	52,831	25,400	27,431
+{"rank": "70","name": "Thabala","District": "Central District","Census-District": "Central Serowe/Palapye	3,255	1,624	1,631
+{"rank": "78","name": "Borolong","District": "Central District","Census-District": "Central Tutume	3,081	1,423	1,658
+{"rank": "43","name": "Dukwi","District": "Central District","Census-District": "Central Tutume	5,877	3,220	2,657
+{"rank": "38","name": "Gweta","District": "Central District","Census-District": "Central Tutume	6,653	3,244	3,409
+{"rank": "41","name": "Maitengwe","District": "Central District","Census-District": "Central Tutume	6,141	2,728	3,413
+{"rank": "69","name": "Mandunyane","District": "Central District","Census-District": "Central Tutume	3,265	1,550	1,715
+{"rank": "75","name": "Marobela","District": "Central District","Census-District": "Central Tutume	3,114	1,441	1,673
+{"rank": "39","name": "Mathangwane","District": "Central District","Census-District": "Central Tutume	6,468	3,011	3,457
+{"rank": "49","name": "Nata","District": "Central District","Census-District": "Central Tutume	5,170	2,381	2,789
+{"rank": "61","name": "Nkange","District": "Central District","Census-District": "Central Tutume	3,707	1,587	2,120
+{"rank": "63","name": "Sebina","District": "Central District","Census-District": "Central Tutume	3,566	1,607	1,959
+{"rank": "72","name": "Shashe-Mooke","District": "Central District","Census-District": "Central Tutume	3,249	1,548	1,701
+{"rank": "19","name": "Tonota","District": "Central District","Census-District": "Central Tutume	18,816	8,745	10,071
+{"rank": "22","name": "Tutume","District": "Central District","Census-District": "Central Tutume	14,707	6,555	8,152
+{"rank": "2","name": "Francistown","District": "North-East District","Census-District": "Francistown	83,023	40,134	42,889
+{"rank": "1","name": "Gaborone","District": "South-East District","Census-District": "Gaborone	186,007	91,823	94,184
+{"rank": "25","name": "Ghanzi","District": "Ghanzi District","Census-District": "Ghanzi	10,795	5,375	5,420
+{"rank": "21","name": "Jwaneng","District": "Southern District","Census-District": "Jwaneng	15,179	7,613	7,566
+{"rank": "57","name": "Hukuntsi","District": "Kgalagadi District","Census-District": "Kgalagadi North	4,131	2,052	2,079
+{"rank": "58","name": "Kang","District": "Kgalagadi District","Census-District": "Kgalagadi North	4,124	2,133	1,991
+{"rank": "35","name": "Tshabong","District": "Kgalagadi District","Census-District": "Kgalagadi South	7,228	3,671	3,557
+{"rank": "54","name": "Bokaa","District": "Kgatleng District","Census-District": "Kgatleng	4,545	2,185	2,360
+{"rank": "77","name": "Malolwane","District": "Kgatleng District","Census-District": "Kgatleng	3,084	1,559	1,525
+{"rank": "10","name": "Mochudi","District": "Kgatleng District","Census-District": "Kgatleng	39,349	18,490	20,859
+{"rank": "64","name": "Oodi","District": "Kgatleng District","Census-District": "Kgatleng	3,550	1,691	1,859
+{"rank": "23","name": "Gabane","District": "Kweneng District","Census-District": "Kweneng East	12,530	5,882	6,648
+{"rank": "28","name": "Kopong","District": "Kweneng District","Census-District": "Kweneng East	8,992	4,416	4,576
+{"rank": "65","name": "Kumakwane","District": "Kweneng District","Census-District": "Kweneng East	3,544	1,668	1,876
+{"rank": "32","name": "Lentsweletau","District": "Kweneng District","Census-District": "Kweneng East	7,609	3,815	3,794
+{"rank": "53","name": "Metsimotlhaba","District": "Kweneng District","Census-District": "Kweneng East	4,692	2,162	2,530
+{"rank": "40","name": "Mmankgodi","District": "Kweneng District","Census-District": "Kweneng East	6,277	2,868	3,409
+{"rank": "29","name": "Mmopane","District": "Kweneng District","Census-District": "Kweneng East	8,554	4,181	4,373
+{"rank": "9","name": "Mogoditshane","District": "Kweneng District","Census-District": "Kweneng East	40,753	20,972	19,781
+{"rank": "3","name": "Molepolole","District": "Kweneng District","Census-District": "Kweneng East	62,739	28,617	34,122
+{"rank": "17","name": "Thamaga","District": "Kweneng District","Census-District": "Kweneng East	20,527	9,332	11,195
+{"rank": "73","name": "Khudumelapye","District": "Kweneng District","Census-District": "Kweneng West	3,248	1,645	1,603
+{"rank": "26","name": "Letlhakeng","District": "Kweneng District","Census-District": "Kweneng West	9,676	4,685	4,991
+{"rank": "11","name": "Lobatse","District": "South-East District","Census-District": "Lobatse	29,689	14,202	15,487
+{"rank": "6","name": "Maun","District": "North-West District","Census-District": "Ngamiland East	49,822	23,714	26,108
+{"rank": "48","name": "Sehithwa","District": "North-West District","Census-District": "Ngamiland East	5,290	2,744	2,546
+{"rank": "31","name": "Shakawe","District": "North-West District","Census-District": "Ngamiland East	7,874	3,632	4,242
+{"rank": "68","name": "Shorobe","District": "North-West District","Census-District": "Ngamiland East	3,333	1,628	1,705
+{"rank": "67","name": "Toteng","District": "North-West District","Census-District": "Ngamiland East	3,391	1,826	1,565
+{"rank": "45","name": "Etsha","District": "North-West District","Census-District": "Ngamiland West	5,613	2,466	3,147
+{"rank": "34","name": "Gumare","District": "North-West District","Census-District": "Ngamiland West	7,478	3,482	3,996
+{"rank": "30","name": "Kasane","District": "North-West District","Census-District": "Ngamiland West	7,933	3,968	3,965
+{"rank": "79","name": "Nokaneng","District": "North-West District","Census-District": "Ngamiland West	3,075	1,564	1,511
+{"rank": "81","name": "Seronga","District": "North-West District","Census-District": "Ngamiland West	3,043	1,307	1,736
+{"rank": "33","name": "Molapowabojang","District": "Southern District","Census-District": "Ngawaketse	7,499	3,533	3,966
+{"rank": "7","name": "Kanye","District": "Southern District","Census-District": "Ngwaketse	48,143	22,451	25,692
+{"rank": "52","name": "Lotlhakane","District": "Southern District","Census-District": "Ngwaketse	4,741	2,371	2,370
+{"rank": "66","name": "Manyana","District": "Southern District","Census-District": "Ngwaketse	3,488	1,645	1,843
+{"rank": "14","name": "Moshupa","District": "Southern District","Census-District": "Ngwaketse	22,811	10,677	12,134
+{"rank": "74","name": "Ranaka","District": "Southern District","Census-District": "Ngwaketse	3,124	1,546	1,578
+{"rank": "76","name": "Masunga","District": "North-East District","Census-District": "North East	3,110	1,394	1,716
+{"rank": "55","name": "Tati Siding","District": "North-East District","Census-District": "North East	4,456	2,242	2,214
+{"rank": "27","name": "Orapa","District": "Central District","Census-District": "Orapa	9,151	4,837	4,314
+{"rank": "5","name": "Selibe Phikwe","District": "	Central District","Census-District": "Selibe Phikwe	49,849	24,334	25,515
+{"rank": "46","name": "Otse","District": "South-East District","Census-District": "South East	5,599	2,838	2,761
+{"rank": "13","name": "Ramotswa	South-East District	South East	25,738	12,027	13,711
+{"rank": "15","name": "Tlokweng	South-East District	South East	22,038	10,568	11,470
